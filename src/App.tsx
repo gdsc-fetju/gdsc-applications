@@ -4,7 +4,7 @@ import gdscLogo from './assets/gdscfetlogo.png';
 
 export default function App() {
   return (
-    <main className='flex flex-col items-center py-10'>
+    <main className='flex flex-col items-center justify-between h-screen py-10'>
       <h1 className='text-center text-3xl md:text-5xl font-bold text-[#de5246]'>
         Core Team Application Form
       </h1>
