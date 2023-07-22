@@ -10,7 +10,7 @@ export function TypeForm() {
 
   if (submitted) {
     return (
-      <div className='flex flex-col items-center'>
+      <div className='flex flex-col items-center flex-grow'>
         <h1 className='text-center text-3xl md:text-5xl font-light text-[#de5246]'>
           Your response has been recorded
         </h1>
